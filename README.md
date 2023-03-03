@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://prason-poudel.io)
 <h1 align="center">Hi 👋, I'm Prason Poudel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <img align="right" alt="Coding" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p align="left"> <a href="https://twitter.com/nosarp07" target="blank"><img src="https://img.shields.io/twitter/follow/nosarp07?logo=twitter&style=for-the-badge" alt="nosarp07" /></a> </p>
 
