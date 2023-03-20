@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Customandu**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **prsnpdl@gmail.com**
 
