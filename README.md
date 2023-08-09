@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p align="left"> <a href="https://twitter.com/nosarp07" target="blank"><img src="https://img.shields.io/twitter/follow/nosarp07?logo=twitter&style=for-the-badge" alt="nosarp07" /></a> </p>
 
-- 🔭 I’m currently working as a **SDE Trainee**
+- 🔭 I’m currently working as a **Full stack Developer Trainee**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Vue3**
 
 - 📫 How to reach me **prsnpdl@gmail.com**
 
